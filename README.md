@@ -1,1 +1,1 @@
-# config_ssdt_OC_prebuilt
+# OpenCore-Laptop-Desktop-Config
