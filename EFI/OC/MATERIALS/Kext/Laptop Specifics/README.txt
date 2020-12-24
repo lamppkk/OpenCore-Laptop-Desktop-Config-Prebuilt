@@ -1,0 +1,1 @@
+- Should check info about your laptop's keyboard and touchpad info first (using software like AIDA64 is recommend)

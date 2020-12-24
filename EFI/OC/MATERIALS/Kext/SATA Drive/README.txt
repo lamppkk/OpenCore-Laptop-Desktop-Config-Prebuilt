@@ -1,0 +1,2 @@
+- Used for laptops which have issues seeing the SATA drive in macOS.
+- For Big Sur, you should use CtInaAHCIPort instead
