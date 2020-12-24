@@ -1,9 +1,8 @@
 # OpenCore laptop/desktop config.plist and prebuilt SSDT
-Loading 99%
+## Attention: This EFI is created by me and it's not endorsed or promoted by Acidanthera team!
 
 ## Credit
-* Apple for macOS
-* Acidanthera Team
-* Dortania Guide
-* Rehabman
-* Olarila Forum
+- Acidanthera Development Team for OpenCore.
+- Dortania Team for the OpenCore Guide.
+- RehabMan for laptop config hints.
+- Olarila Forum for PNLF Patch and Mobile Intel HD Graphics.
